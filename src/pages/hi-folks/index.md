@@ -67,6 +67,7 @@ copy.
 > would be the word "and" and the Little Blind Text should turn around and
 > return to its own, safe country.
 
+
 But nothing the copy said could convince her and so it didn’t take long until a
 few insidious Copy Writers ambushed her, made her drunk with Longe and Parole
 and dragged her into their agency, where they abused her for their projects
