@@ -28,8 +28,8 @@ class Bio extends React.Component {
           }}
         />
         <p>
-          Written by <strong>Meghna Srivastava</strong>.
-          <br/>
+          {/* Written by <strong>Meghna Srivastava</strong>.
+          <br/> */}
           <a href="https://twitter.com/TBSTwriter" target="_blank">
             Follow on Twitter
           </a>

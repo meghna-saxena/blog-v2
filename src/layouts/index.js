@@ -15,9 +15,9 @@ class Template extends React.Component {
 
     if (location.pathname === rootPath) {
       header = (
-        <h1
+        <h5
           style={{
-            ...scale(1.5),
+            ...scale(0.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
           }}
@@ -30,9 +30,9 @@ class Template extends React.Component {
             }}
             to={'/'}
           >
-            Technical Blog
+            Amit Thawait
           </Link>
-        </h1>
+        </h5>
       )
     } else {
       header = (
